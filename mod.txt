@@ -3,7 +3,7 @@ mod2
 mod3
 mod4
 
-UFPE | Universidade FEDERAL DE PERNAMBUCO
+UFPE | Universidade Federal de Pernambuco
 CIn | Centro de Informática
 Mestrado Profissional | Ciência da Computação
 Software Livre | Git com o prof. Fernando Castor
